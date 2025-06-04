@@ -19,4 +19,7 @@ Hi!👋🏼 welcome to my side project to pull data from a public API, transform
 ## Data Frame
 1. [EXAT_API_df](DataFrame/EXAT_API.csv)
 2. [Holiday_API_df](DataFrame/Holiday_API.csv)
+3. [Wells_API_df](DataFrame/Wells_API.csv)
+4. [ImEx_API_df](DataFrame/ImEx_API.csv)
+5. [Earthquakes_API_df](DataFrame/Earthquakes_API.csv)
 
