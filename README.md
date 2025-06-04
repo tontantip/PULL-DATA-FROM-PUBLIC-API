@@ -12,3 +12,9 @@ Hi!👋🏼 welcome to my side project to pull data from a public API, transform
 3. Transforming to Data Frame. Use pandas such as DataFrame or json_normalize for converted the raw API response into a flat DataFrame.
 ## Codeing
 1. [EXAT_API_code](get_api_EXAT.py)
+2. [Holiday_API_code](get_api_holiday.py)
+3. [Wells_API_code](get_api_wells.py)
+4. [ImportExport_API_code](get_api_importexport.py)
+5. [Earthquakes_API_code](get_api_earthquakes.py)
+## Data Frame
+
